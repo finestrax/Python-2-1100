@@ -1,0 +1,7 @@
+# Count from 0 to 100
+for i in range(101):
+    print(i)
+
+# Count from 99 back to 0
+for i in range(99, -1, -1):
+    print(i)
